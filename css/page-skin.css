@@ -42,7 +42,7 @@ button.register{padding:10px 10px;margin-bottom:10px;color:#fff;font-size:larger
 main.main>.widget,aside.sidebar>.widget{background:#fff;float:left;width:100%;padding:15px}.overflow{overflow:hidden}.overflow-x{overflow-x:auto}
 .overflow-y{overflow-y:auto}.text-left{text-align:left}.text-right{text-lign:right}.text-center{text-align:center}
 .container{max-width:1200px;margin:0 auto}
-.header{position:fixed;left:0;right:0;top:0;z-index:999;background:#518d06;box-shadow:0 3px 5px 0 rgba(0,0,0,.1)}
+.header{position:fixed;left:0;right:0;top:0;z-index:999;background:#355e02;box-shadow:0 3px 5px 0 rgba(0,0,0,.1)}
 .header>div{min-height:50px}
 .header-widget a{position:relative;color:#fff}.header-widget a:hover{text-decoration:none!important}
 .header .container.flex.flex-flow div#header-middle.header-middle.menu.section div .widget .widget-content ul li a:hover{background:#fff;color:#000;text-decoration:none}
