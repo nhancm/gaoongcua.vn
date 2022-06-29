@@ -66,20 +66,20 @@ function displayToc2() {
         temp1 = postYearMonth[b];
         
         //document.write('<p><a href="' + postYearMonth2[b] + '">' + temp1 + "</a></p><ul>");
-        str = str + '<ul>';
+        // str = str + '<ul>';
         firsti = a;
         do {
             //document.write("<li class=\"flex-align\">");
-            str = str + "<li class=\"flex-align\">";
+            // str = str + "<li class=\"flex-align\">";
             <!-- document.write("" + '<a href="' + postUrl[a] + '">' + postTitle[a] + "</a>"); -->
             str = str + "" + '<a href="' + postUrl[a] + '">' + postTitle[a] + "</a>";
             //document.write("</li>");
-            str = str + "</li>";
+            // str = str + "</li>";
             a = a + 1
         } while (postYearMonth[a] == temp1);
         b = a;
         //document.write("</ul>");
-        str = str + "</ul>";
+        // str = str + "</ul>";
         if (b > postTitle.length) {
             break
         }
