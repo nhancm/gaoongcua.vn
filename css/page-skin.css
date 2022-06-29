@@ -294,6 +294,6 @@ body.overflow .modal--icon:before{background-image: url("data:image/svg+xml,%3Cs
 .post-label a {color:#111;text-decoration:none;}
 .post-label a {text-decoration:undeline;}
 .entry ul li.flex-align {padding-top: 13px}
-a.label-name.flex-left {margin-bottom: 13px;}
+a.label-name.flex-left {padding: 5px;}
 ul.list li a img {margin-top:10px}
 .lazyload{opacity:0}.lazyloading{opacity:1;transition:opacity .3s;background:#f7f7f7 url(https://raw.githubusercontent.com/aFarkas/lazysizes/gh-pages/assets/imgs/loader.gif) no-repeat center}img.lazyload:not([src]){visibility:hidden}
